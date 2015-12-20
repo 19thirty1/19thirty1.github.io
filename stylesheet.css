@@ -1,0 +1,15 @@
+html {
+  	background: url(Assets/mainBackground.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+#link {
+	margin:auto;
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	top: 0px; left: 0px; right: 0px; bottom: 0px;
+	}
